@@ -1,0 +1,17 @@
+li {
+	background-color: dodgerblue;
+  width: 320px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 18px;
+	margin: 28px;
+}
+
+img {
+	margin-bottom: 15px;
+}
+
+span {
+	color: lightgoldenrodyellow;
+}
